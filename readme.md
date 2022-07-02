@@ -2,6 +2,12 @@
 
 python version: python 3.7.0
 
+download total_word_feature_extractor_zh.dat from **Baidu Netdisk** to directory: /nlpexp-chatbot/data
+
+```bash
+链接：https://pan.baidu.com/s/1kNENvlHLYWZIddmtWJ7Pdg 密码：p4vx
+```
+
 ```bash
 # in directory: nlpexp-chatbot
 pip install -r requirements.txt
